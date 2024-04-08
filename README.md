@@ -1,0 +1,1 @@
+Neste repositorio se encontram todos os arquivos do Projeto I, uso Mac e há algum problema com o safari e o replit que me dificltou muito fazer por lá. Assim, o arquivo zip contem todos os outros arquivos campactados, como pedido no arquivo de especificacao do projeto.
